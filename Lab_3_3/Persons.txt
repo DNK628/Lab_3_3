@@ -1,0 +1,4 @@
+﻿Ivanov/2000/3000
+Petrov/1990/4000
+Sidorov/1980/3500
+Goncharenko/1995/5600
